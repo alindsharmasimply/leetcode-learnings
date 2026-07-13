@@ -1,7 +1,7 @@
-# [DSA / Leetcode / Concatenate Non-Zero Digits and Multiply by Sum II]
+# DSA / Leetcode / Concatenate Non-Zero Digits and Multiply by Sum II
 
 ## 1. The Core Concept (What is this?)
-> This is a prefix sum based problem.
+    This is a prefix sum based problem.
 
 ## 2. Architectural Trade-offs
 * **Approach A:** My initial naive appraoch was to iterate through the substring for every query, sum it up and then convert the substring to integer, multiply it with the sum and return. This would result in O(n^2) time complexity.
@@ -20,4 +20,4 @@
 * **Gotcha 2:** One has to take into consideration the use of MOD here. It isn't just supposed to be a part of the final result appending. It needs to be present during the calculation too.
 
 ## 5. Deep-Dive References
-* [https://www.youtube.com/watch?v=wikD48h_hjQ]
+* https://www.youtube.com/watch?v=wikD48h_hjQ

@@ -6,7 +6,7 @@
 * **Approach B:** 
 
 ## 3. Insights
-* **Insight A:** 
+* **Insight A:** Time & Space Complexities: O(n)
 * **Insight B:** 
 
 ## 4. The Pitfall Log

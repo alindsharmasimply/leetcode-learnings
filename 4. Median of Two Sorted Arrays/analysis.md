@@ -9,7 +9,7 @@
 * **Approach B:** 
 
 ## 3. Insights
-* **Insight A:** 
+* **Insight A:** Time Complexity: O(log(min(m, n))); Space Complexity: O(1)
 * **Insight B:** 
 
 ## 4. The Pitfall Log
